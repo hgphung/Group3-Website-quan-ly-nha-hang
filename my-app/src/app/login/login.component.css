@@ -1,0 +1,10 @@
+.flex{
+  font: 1em sans-serif;
+}
+.container{
+  font-family: Poppins,sans-serif;
+}
+.text-sm {
+  font-size: .875rem;
+  line-height: 1.25rem
+}
